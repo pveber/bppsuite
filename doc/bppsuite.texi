@@ -269,7 +269,7 @@ In some cases, the argument value is more complexe and follows the 'keyval'
 syntax.
 @c This syntax will be quite familiar for users using languages like R, Python, or
 @c certain LaTeX packages.
-A keyval procedure is a name that does no contain any space, together with some
+A keyval procedure is a name that does not contain any space, together with some
 arguments within parentheses.
 The arguments take the form @command{key=value}, separated by comas:
 @cartouche
